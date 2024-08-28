@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 html {
-  @apply bg-zinc-800 text-zinc-100 font-['Inter,system-ui'];
+  @apply bg-zinc-800 text-zinc-100 font-[Operator_Mono_Lig];
 }
