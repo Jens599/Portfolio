@@ -3,6 +3,9 @@ export default {
   content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
+      dropShadow: {
+        demo: '-4px 6px 5px rgba(0, 0, 0)',
+      },
       boxShadow: {
         solid: '-12px 12px 0px 0px var(--tw-shadow-color)',
       },
